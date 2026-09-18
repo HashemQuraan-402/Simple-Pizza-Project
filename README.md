@@ -31,7 +31,7 @@ A Windows Forms desktop application for configuring and pricing a pizza order. T
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/HashemQuraan-402/Simple-Pizza-Project.git
+   git clone https://github.com/HashemQuraan-402/pizza-ordering-winforms.git
    ```
 
 2. Open `PizzaProject.sln` in Visual Studio.
@@ -42,7 +42,7 @@ A Windows Forms desktop application for configuring and pricing a pizza order. T
 ## Project Structure
 
 ```text
-Simple-Pizza-Project/
+pizza-ordering-winforms/
 ├── Properties/
 ├── App.config
 ├── Form1.cs
@@ -77,4 +77,3 @@ This is an educational ordering-interface project. Order persistence, authentica
 
 - [GitHub](https://github.com/HashemQuraan-402)
 - [LinkedIn](https://www.linkedin.com/in/hashem-quraan-b561453ab)
-
